@@ -1,0 +1,15 @@
+Solo Rugs — AI-ready public repo
+
+Primary site: https://www.solorugs.com/
+
+Key files:
+- facts/company-facts.md
+- facts/policies-facts.md
+- facts/product-facts.md
+- ai/summaries.md
+- ai/qa.md
+- ai/prompts.md
+- schemas/organization.jsonld
+- schemas/website.jsonld
+- schemas/collectionpage-all-rugs.jsonld
+- schemas/product-template.jsonld
