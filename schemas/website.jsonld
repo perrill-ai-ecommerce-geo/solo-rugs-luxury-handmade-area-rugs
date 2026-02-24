@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://www.solorugs.com/#website",
+  "url": "https://www.solorugs.com/",
+  "name": "Solo Rugs",
+  "publisher": {
+    "@id": "https://www.solorugs.com/#organization"
+  }
+}
