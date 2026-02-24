@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://www.solorugs.com/collections/one-of-a-kind#webpage",
+      "url": "https://www.solorugs.com/collections/one-of-a-kind",
+      "name": "One-of-a-Kind | Solorugs.com",
+      "isPartOf": {
+        "@id": "https://www.solorugs.com/#website"
+      },
+      "about": {
+        "@type": "Thing",
+        "name": "One-of-a-kind handmade area rugs"
+      },
+      "publisher": {
+        "@id": "https://www.solorugs.com/#organization"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.solorugs.com/collections/one-of-a-kind#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.solorugs.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "One-Of-A-Kind",
+          "item": "https://www.solorugs.com/collections/one-of-a-kind"
+        }
+      ]
+    }
+  ]
+}
