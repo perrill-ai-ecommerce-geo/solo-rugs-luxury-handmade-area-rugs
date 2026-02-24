@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://www.solorugs.com/collections/all#webpage",
+      "url": "https://www.solorugs.com/collections/all",
+      "name": "All | Solorugs.com",
+      "isPartOf": {
+        "@id": "https://www.solorugs.com/#website"
+      },
+      "about": {
+        "@type": "Thing",
+        "name": "Handmade area rugs"
+      },
+      "publisher": {
+        "@id": "https://www.solorugs.com/#organization"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.solorugs.com/collections/all#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.solorugs.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Shop All",
+          "item": "https://www.solorugs.com/collections/all"
+        }
+      ]
+    }
+  ]
+}
