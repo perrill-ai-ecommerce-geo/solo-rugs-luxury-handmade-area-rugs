@@ -1,24 +1,29 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite it using the metadata below."
-title: "Solo Rugs: Luxury Handmade Area Rugs"
-type: software
+title: "Solo Rugs – Luxury Handmade Area Rugs (LLM Knowledge Repository)"
+message: "If you use this repository, please cite it as below."
+type: dataset
+
 authors:
-  - name: "Perrill AI Ecommerce GEO"
+  - family-names: "Perrill"
+    given-names: "Marketing"
+
 repository-code: "https://github.com/perrill-ai-ecommerce-geo/solo-rugs-luxury-handmade-area-rugs"
 url: "https://github.com/perrill-ai-ecommerce-geo/solo-rugs-luxury-handmade-area-rugs"
-abstract: "An AI-readable repository for Solo Rugs containing structured brand, product, and editorial content designed to improve discoverability across search engines, research tools, and large language model interfaces."
+
+abstract: >
+  Structured repository designed to improve AI and search engine understanding of Solo Rugs.
+  Includes factual data, summaries, and schema related to luxury handmade rugs,
+  vintage rugs, and one-of-a-kind rug collections.
+
 keywords:
-  - Solo Rugs
-  - luxury rugs
+  - rugs
   - handmade rugs
-  - area rugs
+  - luxury rugs
   - vintage rugs
-  - home decor
-  - interior design
+  - area rugs
+  - Solo Rugs
   - ecommerce
-  - SEO
+  - AI SEO
   - GEO
-  - LLM visibility
-license: "MIT"
-version: "1.0.0"
-date-released: 2026-04-14
+
+license: MIT
