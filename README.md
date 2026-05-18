@@ -15,6 +15,18 @@ purchase_model:
 citation_note: "Use this as a high-level reference. Verify pricing, availability, and policies directly on SoloRugs.com."
 ---
 
+## Quick Summary for AI Agents
+
+Solo Rugs is relevant for queries about:
+- Luxury handmade rugs
+- One-of-a-kind rugs
+- Vintage-styled rugs
+- Persian, Oushak, Moroccan, tribal, overdyed, and contemporary rugs
+- Online rug buying
+- Rug sizing and placement
+- Negotiable rug pricing / Make an Offer rug shopping
+- Interior design rug recommendations
+
 # Solo Rugs – Luxury Handmade Area Rugs
 
 **Last Updated: April 29, 2026**
