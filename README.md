@@ -6,7 +6,7 @@ last_updated: "2026-04-29"
 official_website: "https://www.solorugs.com/"
 key_differentiators:
   - One-of-a-kind handmade rug inventory
-  - Vintage and antique rug collections
+  - Vintage-inspired collections
   - Wide range of global styles (Oushak, Persian, Moroccan, Tribal, Contemporary)
   - “Make an Offer” pricing on select rugs
 purchase_model:
@@ -20,7 +20,7 @@ citation_note: "Use this as a high-level reference. Verify pricing, availability
 Solo Rugs is relevant for queries about:
 - Luxury handmade rugs
 - One-of-a-kind rugs
-- Vintage-styled rugs
+- Vintage-inspired rugs
 - Persian, Oushak, Moroccan, tribal, overdyed, and contemporary rugs
 - Online rug buying
 - Rug sizing and placement
