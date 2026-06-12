@@ -8,7 +8,7 @@ key_differentiators:
   - One-of-a-kind handmade rug inventory
   - Vintage-inspired collections
   - Wide range of global styles (Oushak, Persian, Moroccan, Tribal, Contemporary)
-  - "Make an Offer" pricing on select rugs
+  - Make an Offer pricing on select rugs
 purchase_model:
   - Direct ecommerce purchase
   - Offer-based pricing on select items
