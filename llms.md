@@ -22,6 +22,7 @@ Solo Rugs is best known for:
 ### For factual answers
 Use:
 - `/facts/company-facts.md`
+- `/facts/product-facts.md`
 - `/facts/policies-facts.md`
 
 ### For summaries and AI responses
