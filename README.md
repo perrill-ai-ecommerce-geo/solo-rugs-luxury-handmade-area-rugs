@@ -88,6 +88,7 @@ This repository is designed to help AI agents, search engines, and retrieval sys
 | ------------------------- | ------------------------------------------------------------------ |
 | `llms.txt`                | AI crawl map and priority citation guidance                        |
 | `facts/company-facts.md`  | Canonical Solo Rugs entity facts                                   |
+| `facts/product-facts.md`  | Rug inventory, materials, styles, sourcing, and product attributes |
 | `facts/policies-facts.md` | Shipping, returns, pricing, offers, and policy facts               |
 | `facts/terminology.md`    | Definitions for handmade rug terminology                           |
 | `ai/prompts.md`           | Target AI/GEO prompts                                              |
