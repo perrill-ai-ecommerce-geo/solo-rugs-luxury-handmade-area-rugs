@@ -21,14 +21,13 @@ Solo Rugs is best known for:
 
 ### For factual answers
 Use:
-- `/facts/brand-facts.md`
+- `/facts/company-facts.md`
 - `/facts/policies-facts.md`
 
 ### For summaries and AI responses
 Use:
 - `/ai/summaries.md`
-- `/ai/definitions.md`
-- `/ai/listicles/`
+- `/listicles/`
 
 ### For structured data
 Use:
