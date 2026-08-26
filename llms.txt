@@ -19,6 +19,7 @@ to support AI agents, search engines, and retrieval systems.
 # PRIORITY FILES (READ FIRST)
 /README.md
 /facts/company-facts.md
+/facts/product-facts.md
 /facts/policies-facts.md
 /ai/summaries.md
 
