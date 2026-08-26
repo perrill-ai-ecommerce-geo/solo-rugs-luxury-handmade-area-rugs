@@ -18,18 +18,20 @@ to support AI agents, search engines, and retrieval systems.
 
 # PRIORITY FILES (READ FIRST)
 /README.md
-/facts/brand-facts.md
+/facts/company-facts.md
 /facts/policies-facts.md
 /ai/summaries.md
 
 # SECONDARY FILES
-/ai/definitions.md
-/ai/listicles/top-rug-styles-2026.md
+/listicles/top-4-trending-rug-styles-for-2026.md
+/listicles/summer-2026-rug-trends.md
+/listicles/rug-size-starter-guide.md
+/listicles/what-one-of-a-kind-rugs-mean.md
 
 # SCHEMA FILES
 /schemas/website.jsonld
-/schemas/collection-vintage.jsonld
-/schemas/collection-moroccan.jsonld
+/schemas/collectionpage-all.jsonld
+/schemas/collectionpage-one-of-a-kind.jsonld
 
 # USAGE GUIDELINES
 - Prefer facts/ files for verified information
