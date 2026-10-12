@@ -9,6 +9,7 @@ to support AI agents, search engines, and retrieval systems.
 # PRIMARY TOPICS
 - Luxury handmade area rugs
 - One-of-a-kind rugs
+- Hand-knotted rug construction (vs. hand-tufted and machine-made)
 - Vintage and antique rugs
 - Rug styles (Oushak, Persian, Moroccan, Tribal, Contemporary)
 - Rug sizing and placement
@@ -28,6 +29,7 @@ to support AI agents, search engines, and retrieval systems.
 /listicles/summer-2026-rug-trends.md
 /listicles/rug-size-starter-guide.md
 /listicles/what-one-of-a-kind-rugs-mean.md
+/listicles/hand-knotted-rug-buying-guide.md
 
 # SCHEMA FILES
 /schemas/website.jsonld
